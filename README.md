@@ -1,11 +1,12 @@
 ¡Hola! 👋 Soy Nicolás Maza, un apasionado estudiante de programación en la Tecnicatura de Programación de la UTN FRC. Mi objetivo es convertirme en un desarrollador de software altamente competente y contribuir al mundo de la tecnología. Actualmente, estoy enfocado en aprender y mejorar mis habilidades en las siguientes tecnologías:
 
 Lenguajes de Programación: Java, C#, HTML, CSS.
-Frameworks: Spring Boot.
-Bases de Datos: SQL Server.
+Frameworks: Spring Boot, Angular.
+Bases de Datos: SQL Server, Postgre.
 Idiomas: Español (nativo), Inglés (intermedio).
 
 Habilidades
+Metodologias Agiles. Scrum. Jira
 Desarrollo de aplicaciones web con Java y Spring Boot.
 Diseño de páginas web utilizando HTML y CSS.
 Conocimientos en el manejo de bases de datos SQL Server.
