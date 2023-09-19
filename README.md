@@ -5,7 +5,8 @@ Frameworks: Spring Boot, Angular.
 Bases de Datos: SQL Server, Postgre.
 Idiomas: Español (nativo), Inglés (intermedio).
 
-Habilidades
+Habilidades:
+
 Metodologias Agiles. Scrum. Jira
 Desarrollo de aplicaciones web con Java y Spring Boot.
 Diseño de páginas web utilizando HTML y CSS.
